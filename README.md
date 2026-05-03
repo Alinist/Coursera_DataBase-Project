@@ -1,7 +1,7 @@
-# Coursera Project sdad
+# Coursera Project sdsdsdsdsd
 
 ## Overview
-This project is a database design and implementation for a Coursera-like online learning platform. It includes entities such as Students, Instructors, Courses, Departments, Offers, Projects, and Certificates, with defined relationships and attributes.
+This project is a database design and implementation for a Coursera-like online learning platform. It includes entities such as Students, Instructors, Courses, Departments, Offers, Projects, and Certificates, with defined relationships and attributes.ASDADSD
 
 ---
 
